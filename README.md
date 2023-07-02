@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorpasson&show_icons=true&count_private=true&theme=radical"  width=80%
+<a href="https://victorpasson.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorpasson&show_icons=true&count_private=true&theme=radical"  width=50%
   height=auto />
+<img width=50% height=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpasson&layout=compact&langs_count=6&theme=highcontrast"/>
 <br>
 <br>
 </a>
