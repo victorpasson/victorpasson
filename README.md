@@ -40,7 +40,7 @@ No meu tempo livre deve estar jogando alguma coisa, vendo alguma série ou escut
 
 - **Banco de Dados:** MySQL, PostgreSQL, SQLite.
 
-- **Outras habilidades:** WordPress, Google Analytics, HTML/CSS, Bootstrap. 
+- **Outras habilidades:** WordPress, HTML/CSS, Bootstrap. 
 
 - **Sistemas Operacionais:** Windows, Linux.
 
