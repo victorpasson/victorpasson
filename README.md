@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <p>
 João Victor é um estudante de economia da Universidade Federal do Espírito Santo e entusiasta de programação e tecnologia. Atualmente mora em Vila Velha no Espírito Santo.
 
-Focado em aprimorar minhas habilidades em HTML, CSS, SQL, Python, Django e Java. Sempre em busca de aprender algo novo, estou entusiasmado em aplicar novos aprendizados em programação para desenvolver soluções inovadoras e aberto a oportunidades para colaborar e contribuir no campo da tecnologia. 
+Focado em aprimorar as habilidades em HTML, CSS, SQL, Python, Django e Java. Sempre em busca de aprender algo novo, busca aplicar novos aprendizados em programação para desenvolver soluções inovadoras e aberto a oportunidades para colaborar e contribuir no campo da tecnologia. 
 
-No meu tempo livre devo estar jogando alguma coisa, vendo alguma série ou escutando alguma música.
+No meu tempo livre deve estar jogando alguma coisa, vendo alguma série ou escutando alguma música.
 
 </p>
 
