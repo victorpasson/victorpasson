@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorpasson&show_icons=true&count_private=true&theme=radical"  width=100%
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorpasson&show_icons=true&count_private=true&theme=radical"  width=80%
   height=auto />
 <br>
 <br>
