@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://victorpasson.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorpasson&show_icons=true&count_private=true&theme=radical"  width=50%
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorpasson&show_icons=true&count_private=true&theme=radical"  width=100%
   height=auto />
 <br>
 <br>
@@ -32,11 +32,11 @@ No meu tempo livre deve estar jogando alguma coisa, vendo alguma série ou escut
 
 </p>
 
-## Aprendendo:
+  ## Interesses:
 
 <p>
   
-- **Programação:** Python[Django, Machine Learning], JavaScript.
+- **Programação:** Python, JavaScript.
 
 - **Banco de Dados:** MySQL, PostgreSQL, SQLite.
 
