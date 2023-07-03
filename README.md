@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 ## Bio
 
 <p>
-João Victor é um estudante de economia da Universidade Federal do Espírito Santo e entusiasta de programação e tecnologia. Atualmente mora em Vila Velha no Espírito Santo.
+João Victor é estudante de economia da Universidade Federal do Espírito Santo e entusiasta de programação e tecnologia. Atualmente mora em Vila Velha no Espírito Santo.
 
-Focado em aprimorar as habilidades em HTML, CSS, SQL, Python, Django e Java. Sempre em busca de aprender algo novo, busca aplicar novos aprendizados em programação para desenvolver soluções inovadoras e aberto a oportunidades para colaborar e contribuir no campo da tecnologia. 
+Focado em aprimorar habilidades em HTML, CSS, SQL, Python, Django e Java. Sempre em busca de aprender algo novo, busca aplicar novos aprendizados em programação para desenvolver soluções inovadoras e aberto a oportunidades para colaborar e contribuir no campo da tecnologia. 
 
-No meu tempo livre deve estar jogando alguma coisa, vendo alguma série ou escutando alguma música.
+No tempo livre deve estar jogando, vendo alguma série ou escutando alguma música.
 
 </p>
 
