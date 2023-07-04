@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://victorpasson.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorpasson&show_icons=true&count_private=true&theme=radical"  width=100%
-  height=auto />
+  [![Victor Passon GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpasson)](https://github.com/victorpasson/github-readme-stats)
 <br>
 <br>
 </a>
