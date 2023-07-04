@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![Victor Passon GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpasson&show_icons=true&theme=highcontrast)
 
 ## Bio
 
