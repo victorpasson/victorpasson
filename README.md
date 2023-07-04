@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ![Victor Passon GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpasson&show_icons=true&theme=highcontrast)
+  [![Victor Passon GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpasson&show_icons=true&theme=highcontrast)](https://victorpasson.github.io)
 
 ## Bio
 
