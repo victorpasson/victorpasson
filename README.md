@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 ## Bio
 
 <p>
-João Victor é estudante de economia da Universidade Federal do Espírito Santo e entusiasta de programação e tecnologia. Atualmente mora em Vila Velha no Espírito Santo.
+Estudante de economia da Universidade Federal do Espírito Santo e entusiasta de programação e tecnologia. Atualmente mora em Vila Velha no Espírito Santo.
 
-Focado em aprimorar habilidades em HTML, CSS, SQL, Python, Django e Java. Sempre em busca de aprender algo novo, busca aplicar novos aprendizados em programação para desenvolver soluções inovadoras e aberto a oportunidades para colaborar e contribuir no campo da tecnologia. 
-
-No tempo livre deve estar jogando, vendo alguma série ou escutando alguma música.
+Focado em aprimorar habilidades em HTML, CSS, SQL, Python, Django e Java. Sempre em busca de aprender algo novo, busca aplicar novos aprendizados em programação para desenvolver soluções inovadoras e aberto a oportunidades para colaborar e contribuir no campo da tecnologia.
 
 </p>
 
@@ -50,5 +48,4 @@ No tempo livre deve estar jogando, vendo alguma série ou escutando alguma músi
 [<img align="left" alt="Victor Passon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [website]: https://victorpasson.github.io/
-[twitter]: https://twitter.com/vtpasson
 [linkedin]: https://www.linkedin.com/in/victorpasson/
