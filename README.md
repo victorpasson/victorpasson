@@ -45,7 +45,6 @@ Focado em aprimorar habilidades em HTML, CSS, SQL, Python, Django e Java. Sempre
 
 [<img align="left" alt="Victor Passon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Victor Passon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Victor Passon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [website]: https://victorpasson.github.io/
 [linkedin]: https://www.linkedin.com/in/victorpasson/
