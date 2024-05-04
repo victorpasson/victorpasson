@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Bio
 
 <p>
-Estudante de economia da Universidade Federal do Espírito Santo e entusiasta de programação e tecnologia. Atualmente mora em Vila Velha no Espírito Santo.
+Economista formado pela Universidade Federal do Espírito Santo e entusiasta de programação e tecnologia. Atualmente mora em Vila Velha no Espírito Santo.
 
 Focado em aprimorar habilidades em HTML, CSS, SQL, Python, Django e Java. Sempre em busca de aprender algo novo, busca aplicar novos aprendizados em programação para desenvolver soluções inovadoras e aberto a oportunidades para colaborar e contribuir no campo da tecnologia.
 
